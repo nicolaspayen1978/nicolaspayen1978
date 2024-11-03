@@ -14,9 +14,9 @@ My background combines a passion for technology, finance, and sustainability. Th
 
 ## Featured Repositories
 
-- **[Articles Repository](https://github.com/your-repo-link)**: A collection of my published articles on topics like climate tech, portfolio management, and the energy industry. Each article is available in HTML for easy reading.
-- **[Resumes Repository](https://github.com/your-repo-link)**: my resume if you would like to know more about my career path
-- **[KOI Repository](https://github.com/your-repo-link)**: A Quant analysis tool that I built to enhance the investment process I used to manage the 4Gs portfolio
+- **[Articles Repository](https://github.com/nicolaspayen1978/Articles)**: A collection of my published articles on topics like climate tech, portfolio management, and the energy industry. Each article is available in HTML for easy reading.
+- **[Resumes Repository](https://github.com/nicolaspayen1978/Resumes)**: my resume if you would like to know more about my career path
+- **[KOI Repository](https://github.com/nicolaspayen1978/KOI)**: KOI is a Quant analysis tool leveraging Yahoo Finance APIs, built to enhance the 4Gs'portfolio investment process
 
 ## Connect with Me
 
