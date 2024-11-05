@@ -7,10 +7,12 @@ My background combines a passion for technology, finance, and sustainability. Th
 
 ## Areas of Interest
 
-- **Climate Tech** 🌍: Committed to promoting sustainable practices and technologies to help address climate change.
+- **Climate Tech** 🌍: Committed to promoting sustainable practices and technologies to help address climate change. 
 - **Investment Strategy** 📈: A focus on growth-value investment with a strong impact component.
 - **Innovation and Entrepreneurship** 🚀: Passionate about supporting and analyzing the start-up journey.
 - **Energy Transition** ⚡: Exploring decarbonization, energy efficiency, and electrification.
+
+If you are interested in the energy transition and Climate Technologies, then you can join this **[Linkedin Group ](https://www.linkedin.com/groups/12485043/)**. I use this group to keep track of all relevant information I come across related to Climate Change mitigation.
 
 ## Featured Repositories
 
