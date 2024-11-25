@@ -24,7 +24,7 @@ If you are interested in the energy transition and Climate Technologies, then yo
 
 - LinkedIn: [Nicolas Payen](https://www.linkedin.com/in/nicolaspayen)
 - Medium: [@nicolaspayen](https://medium.com/@nicolaspayen)
-- X:[@nicolaspayen](https://x.com/nicolaspayen)
+- X: [@nicolaspayen](https://x.com/nicolaspayen)
 
 ## Fun Fact
 
